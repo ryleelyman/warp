@@ -1,0 +1,8 @@
+[package]
+name = "weaver"
+version = "0.0.1"
+authors = ["Rylee Alanza Lyman"]
+edition = "2021"
+
+[lib]
+path="weaver.rs"
